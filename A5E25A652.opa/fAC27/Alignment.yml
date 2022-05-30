@@ -1,0 +1,22 @@
+segment_sources:
+  I44683708:
+    type: origin_type
+    relation: translation
+    language: en
+  I25331051:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2e048ca2ef8b4070b991b33fac1c29dc:
+    I44683708: 3916ac4eb61c447f95ae8b36e345f0b4
+    I25331051: dd2d6dff42bc46b9b59d127f8dcd71a9
+  443934a45da04de49874e53d22ec0644:
+    I44683708: 85d0e24d2dda477690e975017cdfbd3a
+    I25331051: ef7778f1a10d41ac88b7fcf95cd44b71
+  38e57690010f46caa3a244eabc191eb5:
+    I44683708: 834d223f9cc24c37a807908af969b935
+    I25331051: 7380666458b548979c8f4f581d745877
+  50dcfe0bf5e142dd9b7c965bd9f84503:
+    I44683708: d5f4dc9c80094ba2affe08cac6061875
+    I25331051: 327c10c9ce81456297fcd2943944c24b
